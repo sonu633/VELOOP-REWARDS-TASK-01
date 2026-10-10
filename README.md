@@ -9,9 +9,7 @@ Product_Overview.md
 Product_Area_Mapping.xlsx
 Source_Verification_Register.xlsx
 # 02_Data_Readiness_Audit/
-VELOOP_Data_Inventory.xlsx
-Data_Quality_Report.xlsx
-Data_Profiling.ipynb
+https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
 # 03_Analytics_Specifications/
 User_Analytics_Specification.xlsx
 Earning_Reward_Specification.xlsx
