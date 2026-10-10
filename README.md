@@ -5,8 +5,8 @@ Data Analyst Internship Project focused on product analytics, data quality, KPI 
 VELOOP-Rewards-Task-01/
 README.md
 # 01_Product_Analytics/
-Product_Overview.md
-VELOOP Rewards — Product Overview
+
+# VELOOP Rewards — Product Overview
 
 1. Introduction
 
