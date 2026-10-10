@@ -6,6 +6,135 @@ VELOOP-Rewards-Task-01/
 README.md
 # 01_Product_Analytics/
 Product_Overview.md
+VELOOP Rewards — Product Overview
+
+1. Introduction
+
+VELOOP Rewards is a developing online rewards and engagement ecosystem designed to encourage users to participate in different activities and interact with the platform.
+
+The product may include earning activities, daily rewards, streaks, missions, referrals, virtual currencies, levels, and wallet-related functionality.
+
+Important: This document describes the product context for an analytics assignment. The dataset provided for this project is simulated and must not be treated as actual VELOOP user or transaction data.
+
+2. Product Objective
+
+The main objective of VELOOP Rewards is to create an engaging user experience by encouraging participation, rewarding eligible activities, and motivating users to return to the platform.
+
+From a data analytics perspective, the objective is to understand user engagement, activity completion, reward distribution, retention, and wallet-related activity using the supplied simulated dataset.
+
+3. Target Users
+
+Potential user groups may include:
+
+- New users registering on the platform.
+- Active users participating in earning activities.
+- Users completing tasks and missions.
+- Users participating in daily rewards and streaks.
+- Users referring other people to the platform.
+- Users interacting with wallets and reward exchange features.
+
+These are illustrative user groups, not confirmed real-user segments.
+
+4. Main Product Features
+
+4.1 User Accounts
+
+Support user registration and account-related activities.
+
+4.2 Earning Activities and Tasks
+
+Allow users to participate in activities or complete tasks that may qualify for rewards.
+
+4.3 Daily Rewards and Streaks
+
+Encourage regular participation through daily reward opportunities and consecutive-day activity.
+
+4.4 Missions and Badges
+
+Provide goals and achievement indicators that can motivate user engagement.
+
+4.5 Levels and XP
+
+Track user progression through experience points (XP) and levels.
+
+4.6 Virtual Currencies
+
+The product context includes VEs, XP, Gems, Tokens, and Spins. Their exact definitions, conversion rules, and business logic must be confirmed from official product documentation.
+
+4.7 Referrals
+
+Support referral-related activities that may help encourage user acquisition.
+
+4.8 Wallet and Exchange
+
+Provide wallet-related functionality and possible reward exchange operations.
+
+4.9 Withdrawals
+
+Support withdrawal-related functionality, subject to the product's actual rules and availability.
+
+5. User Journey
+
+A possible illustrative user journey is:
+
+1. A user creates an account.
+2. The user explores available activities.
+3. The user completes an eligible task or mission.
+4. The platform records the activity.
+5. Eligible rewards or progression points may be credited.
+6. The user returns for daily rewards or additional activities.
+7. The user may interact with wallet, exchange, or withdrawal features if available.
+
+This journey is a working model for analysis, not confirmation of the live product workflow.
+
+6. Product Analytics Objectives
+
+The analysis will focus on the following areas:
+
+- User registration and activity patterns.
+- Daily and overall engagement.
+- Task and mission completion.
+- Reward and virtual-currency activity.
+- Daily reward and streak participation.
+- Referral activity.
+- Wallet, exchange, and withdrawal records.
+- Missing values, duplicate records, inconsistent formats, and other data-quality issues.
+
+Only metrics supported by the supplied dataset will be calculated.
+
+7. Key Performance Indicators (KPIs)
+
+Potential KPIs include:
+
+KPI| Purpose
+Total Users| Count users represented in the dataset
+Active Users| Measure users active during a defined period
+Task Completion Rate| Measure completed tasks against eligible tasks
+Daily Reward Participation| Measure participation in daily rewards
+Streak Participation| Measure participation in streak activities
+Referral Activity| Understand referral participation
+Total Recorded Rewards| Summarize rewards represented in the dataset
+Withdrawal Completion Rate| Measure completed withdrawals against eligible withdrawal requests
+
+KPI definitions, denominators, time periods, and required columns must be validated before calculation.
+
+8. Data Authenticity and Limitations
+
+The dataset supplied for this assignment is fictional or simulated.
+
+Therefore:
+
+- Do not describe dataset records as actual VELOOP users.
+- Do not report simulated rewards or withdrawals as real financial activity.
+- Label charts, dashboards, KPIs, and findings as simulated or illustrative.
+- Document assumptions whenever product behavior or field meanings are unknown.
+- Do not assume that a feature is live or available unless supported by official product information.
+
+9. Conclusion
+
+This product overview establishes the initial context for the VELOOP Rewards analytics project. It will guide product-area mapping, dataset inventory, data-readiness auditing, data modeling, KPI definition, and subsequent analysis.
+
+All findings will be based on the available evidence and clearly documented assumptions.
 Product_Area_Mapping.xlsx
 Source_Verification_Register.xlsx
 # 02_Data_Readiness_Audit/
