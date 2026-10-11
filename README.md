@@ -8,7 +8,7 @@ README.md
 
 # VELOOP Rewards — Product Overview
 
-1. Introduction
+# 1. Introduction
 
 VELOOP Rewards is a developing online rewards and engagement ecosystem designed to encourage users to participate in different activities and interact with the platform.
 
@@ -16,13 +16,13 @@ The product may include earning activities, daily rewards, streaks, missions, re
 
 Important: This document describes the product context for an analytics assignment. The dataset provided for this project is simulated and must not be treated as actual VELOOP user or transaction data.
 
-2. Product Objective
+# 2. Product Objective
 
 The main objective of VELOOP Rewards is to create an engaging user experience by encouraging participation, rewarding eligible activities, and motivating users to return to the platform.
 
 From a data analytics perspective, the objective is to understand user engagement, activity completion, reward distribution, retention, and wallet-related activity using the supplied simulated dataset.
 
-3. Target Users
+# 3. Target Users
 
 Potential user groups may include:
 
@@ -35,45 +35,45 @@ Potential user groups may include:
 
 These are illustrative user groups, not confirmed real-user segments.
 
-4. Main Product Features
+# 4. Main Product Features
 
-4.1 User Accounts
+# 4.1 User Accounts
 
 Support user registration and account-related activities.
 
-4.2 Earning Activities and Tasks
+# 4.2 Earning Activities and Tasks
 
 Allow users to participate in activities or complete tasks that may qualify for rewards.
 
-4.3 Daily Rewards and Streaks
+# 4.3 Daily Rewards and Streaks
 
 Encourage regular participation through daily reward opportunities and consecutive-day activity.
 
-4.4 Missions and Badges
+# 4.4 Missions and Badges
 
 Provide goals and achievement indicators that can motivate user engagement.
 
-4.5 Levels and XP
+# 4.5 Levels and XP
 
 Track user progression through experience points (XP) and levels.
 
-4.6 Virtual Currencies
+# 4.6 Virtual Currencies
 
 The product context includes VEs, XP, Gems, Tokens, and Spins. Their exact definitions, conversion rules, and business logic must be confirmed from official product documentation.
 
-4.7 Referrals
+# 4.7 Referrals
 
 Support referral-related activities that may help encourage user acquisition.
 
-4.8 Wallet and Exchange
+# 4.8 Wallet and Exchange
 
 Provide wallet-related functionality and possible reward exchange operations.
 
-4.9 Withdrawals
+# 4.9 Withdrawals
 
 Support withdrawal-related functionality, subject to the product's actual rules and availability.
 
-5. User Journey
+# 5. User Journey
 
 A possible illustrative user journey is:
 
@@ -87,7 +87,7 @@ A possible illustrative user journey is:
 
 This journey is a working model for analysis, not confirmation of the live product workflow.
 
-6. Product Analytics Objectives
+# 6. Product Analytics Objectives
 
 The analysis will focus on the following areas:
 
@@ -102,7 +102,7 @@ The analysis will focus on the following areas:
 
 Only metrics supported by the supplied dataset will be calculated.
 
-7. Key Performance Indicators (KPIs)
+# 7. Key Performance Indicators (KPIs)
 
 Potential KPIs include:
 
@@ -118,7 +118,7 @@ Withdrawal Completion Rate| Measure completed withdrawals against eligible withd
 
 KPI definitions, denominators, time periods, and required columns must be validated before calculation.
 
-8. Data Authenticity and Limitations
+# 8. Data Authenticity and Limitations
 
 The dataset supplied for this assignment is fictional or simulated.
 
@@ -130,7 +130,7 @@ Therefore:
 - Document assumptions whenever product behavior or field meanings are unknown.
 - Do not assume that a feature is live or available unless supported by official product information.
 
-9. Conclusion
+# 9. Conclusion
 
 This product overview establishes the initial context for the VELOOP Rewards analytics project. It will guide product-area mapping, dataset inventory, data-readiness auditing, data modeling, KPI definition, and subsequent analysis.
 
@@ -139,6 +139,7 @@ Product_Area_Mapping.xlsx
 Source_Verification_Register.xlsx
 # 02_Data_Readiness_Audit/
 https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
+https://www.kaggle.com/code/sonubit/veloop-reward-dataset
 # 03_Analytics_Specifications/
 User_Analytics_Specification.xlsx
 Earning_Reward_Specification.xlsx
