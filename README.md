@@ -140,7 +140,7 @@ Source_Verification_Register.xlsx
 # 02_Data_Readiness_Audit/
 https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
 ----------------------------------------------------------------------
-https://www.kaggle.com/code/sonubit/veloop-reward-dataset
+# https://www.kaggle.com/code/sonubit/veloop-reward-dataset
 # 03_Analytics_Specifications/
 User_Analytics_Specification.xlsx
 Earning_Reward_Specification.xlsx
