@@ -135,7 +135,7 @@ Therefore:
 This product overview establishes the initial context for the VELOOP Rewards analytics project. It will guide product-area mapping, dataset inventory, data-readiness auditing, data modeling, KPI definition, and subsequent analysis.
 
 All findings will be based on the available evidence and clearly documented assumptions.
-# 
+# https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Product_Area_map.xlsx
 Source_Verification_Register.xlsx
 # 02_Data_Readiness_Audit/
 https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
