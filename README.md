@@ -165,3 +165,24 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Logical%20model.docx
 # 15. WORK PACKAGE I — KPI CATALOGUE
 # Click Link > Click view raw > Download in File ******†********************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Kpi%20Catalogue.docx
+# 19.WORK PACKAGE M — ANALYTICS DASHBOARD BLUEPRINT
+# 1. Executive Overview
+User activity, engagement, rewards, wallet, withdrawals and referrals
+
+# 2. User Analytics
+Registrations, active users, acquisition, devices and lifecycle
+
+# 3. Engagement
+Feature usage, task starts, completions and repeat activity
+
+# 4. Rewards
+Reward transactions, sources, statuses and reversals
+
+# 5. Wallet
+Credits, redemptions, reversals and transaction trends
+
+# 6. Withdrawals
+Requests, statuses, processing time and payout methods
+
+# 7. Referrals
+Referral creation, registrations, activations and conversion
