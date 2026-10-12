@@ -157,8 +157,10 @@ Referral_Engagement_Specification.xlsx
 Data_Dictionary.xlsx
 ER_Diagram.png
 
-# 14. WORK PACKAGE H — LOGICAL DATA MODEL
 
+# 14. WORK PACKAGE H — LOGICAL DATA MODEL
+# Click Link > Click view raw > Download in  File
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Logical%20model.docx
 
 # 15. WORK PACKAGE I — KPI CATALOGUE
 # Click Link > Click view raw > Download in File ******†********************
