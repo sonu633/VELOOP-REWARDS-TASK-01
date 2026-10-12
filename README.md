@@ -144,6 +144,25 @@ All findings will be based on the available evidence and clearly documented assu
 https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
 ----------------------------------------------------------------------
 # https://www.kaggle.com/code/sonubit/veloop-reward-dataset
+
+
+
+
+# 15. WORK PACKAGE I — KPI CATALOGUE
+
+# 1. KPI Catalogue
+# A. User KPIs
+# KPI 1 — Registrations
+# Definition:  Number of unique users who registered during the selected period.
+# Formula: Count distinct user_id values by registration date.
+# Required Fields: user_id, registration_timestamp
+# Data Source: Users table or registration events.
+# Frequency: Daily, weekly, monthly.
+# Stakeholder: Product Manager, Growth Analyst.
+# Business Purpose: Measure user acquisition.
+# Interpretation: Shows how many new users registered during the period.
+# Limitation: Duplicate accounts and invalid timestamps can affect the count.
+# Status: Proposed.
 # 03_Analytics_Specifications/
 User_Analytics_Specification.xlsx
 Earning_Reward_Specification.xlsx
