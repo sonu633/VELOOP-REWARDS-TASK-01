@@ -187,6 +187,7 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/User_Engagement_Dash
 
 # 5. Wallet
 Credits, redemptions, reversals and transaction trends
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Wallet_Transactions_Dashboard.xlsx
 
 # 6. Withdrawals
 Requests, statuses, processing time and payout methods
