@@ -1,4 +1,4 @@
-                 #  VELOOP REWARDS
+#  VELOOP REWARDS
 # Product Analytics, Data Readiness & Data Management Blueprint
 # 01_Product_Analytics/
 
