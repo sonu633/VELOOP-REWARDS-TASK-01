@@ -162,6 +162,8 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Logical%20model.docx
 # Click Link > Click view raw > Download in File ******†********************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Kpi%20Catalogue.docx
 # 19.WORK PACKAGE M — ANALYTICS DASHBOARD BLUEPRINT
+
+# Click Link > Click view raw > Download in  File*********************#
 # 1. Executive Overview
 User activity, engagement, rewards, wallet, withdrawals and referrals
 
@@ -169,7 +171,7 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Platform_Performance
 
 # 2. User Analytics
 Registrations, active users, acquisition, devices and lifecycle
-# Click Link > Click view raw > Download in  File*********************
+
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/User_Dashboard%20(1).xlsx
   
 
