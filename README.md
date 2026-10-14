@@ -172,6 +172,7 @@ User activity, engagement, rewards, wallet, withdrawals and referrals
 # 2. User Analytics
 Registrations, active users, acquisition, devices and lifecycle
 
+
 # 3. Engagement
 Feature usage, task starts, completions and repeat activity
 
