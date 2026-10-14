@@ -193,6 +193,7 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Wallet_Transactions_
 # 6. Withdrawals
 Requests, statuses, processing time and payout methods
 
+
 # 7. Referrals
 Referral creation, registrations, activations and conversion
 # 21.WORK PACKAGE O — DATA PIPELINE & OPERATING MODEL
