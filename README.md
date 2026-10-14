@@ -193,6 +193,8 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Wallet_Transactions_
 # 6. Withdrawals
 Requests, statuses, processing time and payout methods
 
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Withdrawals_Dashboard.xlsx
+
 
 # 7. Referrals
 Referral creation, registrations, activations and conversion
