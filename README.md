@@ -1,9 +1,5 @@
-ni# VELOOP-REWARDS-TASK-01
-Data Analyst Internship Project focused on product analytics, data quality, KPI design, event tracking, and dashboard development for veloop Rewards.
-
-
-VELOOP-Rewards-Task-01/
-README.md
+                 #  VELOOP REWARDS
+# Product Analytics, Data Readiness & Data Management Blueprint
 # 01_Product_Analytics/
 
 # VELOOP Rewards — Product Overview
