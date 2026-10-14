@@ -198,6 +198,8 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Withdrawals_Dashboar
 
 # 7. Referrals
 Referral creation, registrations, activations and conversion
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Referrals_Dashboard.xlsx
+
 # 21.WORK PACKAGE O — DATA PIPELINE & OPERATING MODEL
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Data%20pipeline%20%26%20Operating%20model.docx
