@@ -1,4 +1,4 @@
-# VELOOP-REWARDS-TASK-01
+ni# VELOOP-REWARDS-TASK-01
 Data Analyst Internship Project focused on product analytics, data quality, KPI design, event tracking, and dashboard development for veloop Rewards.
 
 
@@ -181,7 +181,9 @@ Feature usage, task starts, completions and repeat activity
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/User_Engagement_Dashboard.xlsx
 
 # 4. Rewards
-Reward transactions, sources, statuses and reversals
+reward activity  ,reward source  ,reward status , reward trends ,reversal activity
+
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/User_Engagement_Dashboard.xlsx
 
 # 5. Wallet
 Credits, redemptions, reversals and transaction trends
