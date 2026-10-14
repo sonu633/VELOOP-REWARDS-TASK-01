@@ -177,6 +177,7 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/User_Dashboard%20(1)
 
 # 3. Engagement
 Feature usage, task starts, completions and repeat activity
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/User_Engagement_Dashboard.xlsx
 
 # 4. Rewards
 Reward transactions, sources, statuses and reversals
