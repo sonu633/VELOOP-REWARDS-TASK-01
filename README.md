@@ -172,7 +172,7 @@ User activity, engagement, rewards, wallet, withdrawals and referrals
 # 2. User Analytics
 Registrations, active users, acquisition, devices and lifecycle
 # https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/User_Dashboard%20(1).xlsx
-# Click Link > Click view raw > Download in  File********************************
+  Click Link > Click view raw > Download in  File********************************
 
 # 3. Engagement
 Feature usage, task starts, completions and repeat activity
