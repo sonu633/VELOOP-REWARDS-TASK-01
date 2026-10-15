@@ -209,4 +209,6 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Data%20pipeline%20%2
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/WORK%20PACKAGE%20P%20%E2%80%94%20DATA%20ACCESS%2C%20PRIVACY%20%26%20GOVERNANCE.docx
 # 23. WORK PACKAGE Q — ANALYTICS CHANGE MANAGEMENT
+# Click Link > Click view raw > Download in  File**************************
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/analytics_change_dashboard.xlsx
 
