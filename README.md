@@ -161,6 +161,8 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Logical%20model.docx
 # 15. WORK PACKAGE I — KPI CATALOGUE
 # Click Link > Click view raw > Download in File ******†********************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Kpi%20Catalogue.docx
+# 16 WORK PACKAGE J — SIMULATED DATA PROFILING
+# Click Link > Click view raw > Download in File ******†********************
 # 19.WORK PACKAGE M — ANALYTICS DASHBOARD BLUEPRINT
 
 # Click Link > Click view raw > Download in  File*********************#
