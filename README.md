@@ -153,6 +153,8 @@ Referral_Engagement_Specification.xlsx
 Data_Dictionary.xlsx
 ER_Diagram.png
 
+# 13 WORK PACKAGE G — VELOOP DATA DICTIONARY
+# Click Link > Click view raw > Download in  File**************************
 
 # 14. WORK PACKAGE H — LOGICAL DATA MODEL
 # Click Link > Click view raw > Download in  File**************************
