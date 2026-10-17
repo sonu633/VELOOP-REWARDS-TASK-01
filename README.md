@@ -125,6 +125,9 @@ Therefore:
 - Label charts, dashboards, KPIs, and findings as simulated or illustrative.
 - Document assumptions whenever product behavior or field meanings are unknown.
 - Do not assume that a feature is live or available unless supported by official product information.
+# 7. WORK PACKAGE A — PRODUCT DATA READINESS AUDIT
+# Click Link > Click view raw > Download in  File**************************
+
 # 8. WORK PACKAGE B — USER & ACCOUNT ANALYTICS SPECIFICATION
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/analytics_change_dashboard.xlsx
