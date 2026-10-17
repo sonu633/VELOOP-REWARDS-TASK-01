@@ -127,6 +127,7 @@ Therefore:
 - Do not assume that a feature is live or available unless supported by official product information.
 # 6. SOURCE & EVIDENCE DISCIPLINE
 # Click Link > Click view raw > Download in  File**************************
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Source_and_Verification_Register.docx
 
 # 7. WORK PACKAGE A — PRODUCT DATA READINESS AUDIT
 # Click Link > Click view raw > Download in  File**************************
