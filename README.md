@@ -152,6 +152,10 @@ Referral_Engagement_Specification.xlsx
 # 04_Data_Model/
 Data_Dictionary.xlsx
 ER_Diagram.png
+# 11. WORK PACKAGE E — REFERRAL & ENGAGEMENT ANALYTICS
+# Click Link > Click view raw > Download in  File**************************
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Referral_Engagement_Analytics.xlsx
+
 # 12. WORK PACKAGE F — PRODUCTION EVENT TRACKING PLAN
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Veloop_Event_Tracking_Plan.xlsx
