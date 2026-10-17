@@ -125,6 +125,9 @@ Therefore:
 - Label charts, dashboards, KPIs, and findings as simulated or illustrative.
 - Document assumptions whenever product behavior or field meanings are unknown.
 - Do not assume that a feature is live or available unless supported by official product information.
+# 8. WORK PACKAGE B — USER & ACCOUNT ANALYTICS SPECIFICATION
+# Click Link > Click view raw > Download in  File**************************
+
 
 # 9. Conclusion
 
