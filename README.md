@@ -154,6 +154,7 @@ Data_Dictionary.xlsx
 ER_Diagram.png
 # 10. WORK PACKAGE D — WALLET & WITHDRAWAL ANALYTICS
 # Click Link > Click view raw > Download in  File**************************
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Wallet_Withdrawal_Analytics.xlsx
 # 11. WORK PACKAGE E — REFERRAL & ENGAGEMENT ANALYTICS
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Referral_Engagement_Analytics.xlsx
