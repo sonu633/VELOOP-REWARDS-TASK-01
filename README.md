@@ -127,6 +127,7 @@ Therefore:
 - Do not assume that a feature is live or available unless supported by official product information.
 # 8. WORK PACKAGE B — USER & ACCOUNT ANALYTICS SPECIFICATION
 # Click Link > Click view raw > Download in  File**************************
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/analytics_change_dashboard.xlsx
 
 
 # 9. Conclusion
