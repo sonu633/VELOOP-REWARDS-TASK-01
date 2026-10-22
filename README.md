@@ -273,4 +273,5 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/NON-NEGOTIABLE%20INT
 # 35. FINAL EXPECTATION TO THE INTERN
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/FINAL%20EXPECTATION%20TO%20THE%20INTERN.docx
+![VELOOP Rewards Dashboard](Screenshot_2026-10-22-18-21-06-98_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
 
