@@ -248,6 +248,7 @@ Referral creation, registrations, activations and conversion
 # 20 . WORK PACKAGE N — DEVELOPER ANALYTICS HANDOFF
 
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Referrals_Dashboard.xlsx
+![VELOOP Rewards Dashboard](Screenshot_2026-10-22-18-05-47-65_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
 
 # 21.WORK PACKAGE O — DATA PIPELINE & OPERATING MODEL
 # Click Link > Click view raw > Download in  File**************************
