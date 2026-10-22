@@ -204,6 +204,8 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/rewards_app_dataset.
 # 18. WORK PACKAGE L — DATA QUALITY CONTROL FRAMEWORK
 # Click Link > Click view raw > Download in File ******†********************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Quality_Control_Framework.xlsx
+
+![VELOOP Rewards Dashboard](Screenshot_2026-10-22-10-30-30-08_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
 # 19.WORK PACKAGE M — ANALYTICS DASHBOARD BLUEPRINT
 
 # Click Link > Click view raw > Download in  File*********************#
