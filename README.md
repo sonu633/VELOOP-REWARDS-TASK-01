@@ -137,6 +137,7 @@ Therefore:
 # 5. PRODUCT CONTEXT
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Product_Context_Brief.docx
+![VELOOP Rewards Dashboard](Screenshot_2026-10-22-11-13-15-67_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
 # 6. SOURCE & EVIDENCE DISCIPLINE
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Source_and_Verification_Register.docx
