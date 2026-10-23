@@ -192,11 +192,10 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Veloop_Data_Dictiona
 # 14. WORK PACKAGE H — LOGICAL DATA MODEL
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Logical%20model.docx
-![VELOOP Rewards Dashboard](Screenshot_2026-10-22-10-46-46-29_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
-
 # 15. WORK PACKAGE I — KPI CATALOGUE
 # Click Link > Click view raw > Download in File ******†********************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Kpi%20Catalogue.docx
+![VELOOP Rewards Dashboard](Screenshot_2026-10-22-10-46-46-29_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
 # 16 WORK PACKAGE J — SIMULATED DATA PROFILING
 # Click Link > Click view raw > Download in File ******†********************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/rewards_app_dataset.xlsx
