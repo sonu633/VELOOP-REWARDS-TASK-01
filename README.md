@@ -132,11 +132,11 @@ Therefore:
 - Do not report simulated rewards or withdrawals as real financial activity.
 - Label charts, dashboards, KPIs, and findings as simulated or illustrative.
 - Document assumptions whenever product behavior or field meanings are unknown.
-- Do not assume that a feature is live or available unless supported by official product information.
-- ![VELOOP Rewards Dashboard](file_0000000099cc8211ba0ee00c58d98948.png)
+- Do not assume that a feature is live or available unless supported by official product information
 # 5. PRODUCT CONTEXT
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Product_Context_Brief.docx
+- ![VELOOP Rewards Dashboard](file_0000000099cc8211ba0ee00c58d98948.png)
 # 6. SOURCE & EVIDENCE DISCIPLINE
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Source_and_Verification_Register.docx
