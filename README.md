@@ -263,10 +263,10 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/analytics_change_das
 # 32. DEFINITION OF DONE
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP%20Analytics%20Definition%20Package%20(Draft%2C%20Assumption-Based).docx
-![VELOOP Rewards Dashboard](Screenshot_2026-10-22-10-38-47-12_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
 # 33 	EVALUATION FRAMEWORK 
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/EVALUATION%20FRAMEWORK.docx
+![VELOOP Rewards Dashboard](Screenshot_2026-10-22-10-38-47-12_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
 # 34 NON-NEGOTIABLE INTEGRITY RULES
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/NON-NEGOTIABLE%20INTEGRITY%20RULES.docx
