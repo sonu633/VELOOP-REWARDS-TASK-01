@@ -270,6 +270,8 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/EVALUATION%20FRAMEWO
 # 34 NON-NEGOTIABLE INTEGRITY RULES
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/NON-NEGOTIABLE%20INTEGRITY%20RULES.docx
+![VELOOP Rewards Dashboard](file_00000000d7c4820ba1d39f935f6f9323.png)
+
 # 35. FINAL EXPECTATION TO THE INTERN
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/FINAL%20EXPECTATION%20TO%20THE%20INTERN.docx
