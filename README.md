@@ -4,6 +4,15 @@
 
 
 
+# Click this link > Click view raw > Download in File *************
+
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Product_Area_map.xlsx
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Source_Verification_Register.xlsx
+# 02_Data_Readiness_Audit/
+
+https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
+
+https://www.kaggle.com/code/sonubit/veloop-reward-dataset
 
 
 #  VELOOP REWARDS
@@ -154,27 +163,6 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/analytics_change_das
 # 9. WORK PACKAGE C — EARNING & REWARD ANALYTICS
 # Click this link > Click view raw > Download in File *************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Earning_Analytics.xlsx
-
-
-
-# Click this link > Click view raw > Download in File *************
-
-https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Product_Area_map.xlsx
-https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Source_Verification_Register.xlsx
-# 02_Data_Readiness_Audit/
-
-https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
-
-https://www.kaggle.com/code/sonubit/veloop-reward-dataset
-
-# 03_Analytics_Specifications/
-User_Analytics_Specification.xlsx
-Earning_Reward_Specification.xlsx
-Wallet_Withdrawal_Specification.xlsx
-Referral_Engagement_Specification.xlsx
-# 04_Data_Model/
-Data_Dictionary.xlsx
-ER_Diagram.png
 # 10. WORK PACKAGE D — WALLET & WITHDRAWAL ANALYTICS
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Wallet_Withdrawal_Analytics.xlsx
