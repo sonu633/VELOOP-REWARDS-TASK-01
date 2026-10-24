@@ -146,6 +146,36 @@ Therefore:
 https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
 
 https://www.kaggle.com/code/sonubit/veloop-reward-dataset
+# 2. IMPORTANT DATA AUTHENTICITY POLICY
+# (i)IMPORTANT DATA AUTHENTICITY POLICY
+
+Mandatory Requirement
+
+VELOOP is a real product under development. However, all data supplied for this assignment is fictional or simulated and must not be presented as actual company data.
+
+Data Integrity Rules
+
+- Do not describe simulated records as actual VELOOP users.
+- Do not represent simulated earnings or withdrawals as actual transactions.
+- Do not present simulated revenue, retention, or conversion rates as real company metrics.
+- Do not claim simulated performance indicators represent actual VELOOP performance.
+- Do not publish simulated statistics as official company statistics.
+
+Mandatory Disclosure
+
+All dashboards, charts, KPIs, SQL analyses, Python notebooks, Excel reports, and presentations based on simulated data must clearly display:
+
+"Disclaimer: This analysis uses fictional/simulated data for demonstration and analytical purposes only. The results do not represent actual VELOOP users, transactions, earnings, withdrawals, revenue, retention, conversion rates, or company performance."
+
+Reporting Guidelines
+
+1. Label all simulated datasets and results clearly.
+2. Document assumptions and data sources.
+3. Never invent or imply access to production data.
+4. Separate verified product information from simulated data and proposed features.
+5. Replace simulated data with authorized, validated production data only when it becomes available.
+
+Compliance Statement: This project demonstrates analytical methods, data readiness, KPI design, and data governance. It does not report verified operational results for VELOOP.
 # 5. PRODUCT CONTEXT
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Product_Context_Brief.docx
