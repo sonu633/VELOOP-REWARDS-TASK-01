@@ -152,10 +152,10 @@ https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/analytics_change_das
 
 
 # 9. WORK PACKAGE C — EARNING & REWARD ANALYTICS
+# Click this link > Click view raw > Download in File *************
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Earning_Analytics.xlsx
 
-This product overview establishes the initial context for the VELOOP Rewards analytics project. It will guide product-area mapping, dataset inventory, data-readiness auditing, data modeling, KPI definition, and subsequent analysis.
 
-All findings will be based on the available evidence and clearly documented assumptions.
 
 # Click this link > Click view raw > Download in File *************
 
