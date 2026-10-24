@@ -177,6 +177,7 @@ Reporting Guidelines
 
 Compliance Statement: This project demonstrates analytical methods, data readiness, KPI design, and data governance. It does not report verified operational results for VELOOP.
 # (ii). Add a warning banner to your website
+# 3. Label your dashboard metrics correctly
 # 5. PRODUCT CONTEXT
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Product_Context_Brief.docx
