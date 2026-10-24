@@ -147,7 +147,7 @@ https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
 
 https://www.kaggle.com/code/sonubit/veloop-reward-dataset
 # 2. IMPORTANT DATA AUTHENTICITY POLICY
-# (i)IMPORTANT DATA AUTHENTICITY POLICY
+# (i).IMPORTANT DATA AUTHENTICITY POLICY
 
 Mandatory Requirement
 
@@ -176,6 +176,7 @@ Reporting Guidelines
 5. Replace simulated data with authorized, validated production data only when it becomes available.
 
 Compliance Statement: This project demonstrates analytical methods, data readiness, KPI design, and data governance. It does not report verified operational results for VELOOP.
+# (ii). Add a warning banner to your website
 # 5. PRODUCT CONTEXT
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Product_Context_Brief.docx
