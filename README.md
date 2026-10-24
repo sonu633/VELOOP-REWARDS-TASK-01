@@ -2,19 +2,6 @@
 ![VELOOP Rewards Dashboard](file_000000000cf0820b914f785c91168bda.png)
 
 
-
-
-# Click this link > Click view raw > Download in File *************
-
-https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Product_Area_map.xlsx
-https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Source_Verification_Register.xlsx
-# 02_Data_Readiness_Audit/
-
-https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
-
-https://www.kaggle.com/code/sonubit/veloop-reward-dataset
-
-
 #  VELOOP REWARDS
 # Product Analytics, Data Readiness & Data Management Blueprint
 # 01_Product_Analytics/
@@ -178,6 +165,7 @@ Reporting Guidelines
 Compliance Statement: This project demonstrates analytical methods, data readiness, KPI design, and data governance. It does not report verified operational results for VELOOP.
 # (ii). Add a warning banner to your website
 # 3. Label your dashboard metrics correctly
+https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/Label%20your%20dadhboard.docx
 # 4. Where to apply this policy
 README.md — full policy and disclaimer.
 index.html — visible warning banner.
