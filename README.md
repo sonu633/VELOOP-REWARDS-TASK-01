@@ -142,6 +142,10 @@ Therefore:
 - Label charts, dashboards, KPIs, and findings as simulated or illustrative.
 - Document assumptions whenever product behavior or field meanings are unknown.
 - Do not assume that a feature is live or available unless supported by official product information
+- # 1.Data_Readiness_Audit/
+https://www.kaggle.com/code/sonubit/veloop-simulation-dataset-analysis
+
+https://www.kaggle.com/code/sonubit/veloop-reward-dataset
 # 5. PRODUCT CONTEXT
 # Click Link > Click view raw > Download in  File**************************
 https://github.com/sonu633/VELOOP-REWARDS-TASK-01/blob/main/VELOOP_Product_Context_Brief.docx
